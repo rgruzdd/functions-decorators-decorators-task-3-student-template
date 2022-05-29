@@ -1,6 +1,5 @@
-from typing import List
 
-def check(lst: List):
+def log(fn):
     """
     Add your code here or call it from here   
     """
